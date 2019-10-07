@@ -53,6 +53,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_toRightOf="@+id/tv_label_ano"
+                    android:paddingLeft="10dp"
                     android:text="1999"
                     android:textAppearance="@style/TextAppearance.AppCompat.Medium"/>
 
